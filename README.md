@@ -40,3 +40,6 @@ Ensure all scripts have execute permissions:
 chmod +x runUpdateVestaboard.sh
 chmod +x runNews.sh
 ```
+## Disclaimer
+
+This code is heavily AI assisted. I stopped working on the project when it started to work.
